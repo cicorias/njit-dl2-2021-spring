@@ -139,3 +139,11 @@ cython_debug/
 
 .jupyter
 
+
+
+notebooks/d2l-en.zip
+# !notebooks/d2l-en/**/*.ipynb
+notebooks/d2l-en/**/*
+
+desktop.ini
+.DS_Store
