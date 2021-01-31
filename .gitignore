@@ -147,3 +147,4 @@ notebooks/d2l-en/**/*
 
 desktop.ini
 .DS_Store
+*:Zone.Identifier
